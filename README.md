@@ -23,6 +23,6 @@
 </details>
 
 
-[instagram]: https://www.instagram.com/mutaliev_ing/
-[vk]: https://vk.com/mutaliev_ing/
-[telegram]: https://t.me/mutaliev_ing/
+[instagram]: https://www.instagram.com/yakhya_mestoev/
+[vk]: https://vk.com/yakhya_mestoev/
+[telegram]: https://t.me/yakhya_mestoev/
